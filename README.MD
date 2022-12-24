@@ -8,4 +8,10 @@ A preview of the page is available [here](https://www.codecademy.com/courses/lea
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Design mock:
+![This is an image](https://github.com/grellag/Excursion/blob/b9754dab0b843c1173914d32f9ea300990bd6e4e/images/excursion.png)
+
+Redline mock:
+![This is an image](https://github.com/grellag/Excursion/blob/b16d502fa56c341c9c8ea04d63b24441e6f5c179/images/excursion_redline.png)
+
+
