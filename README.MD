@@ -7,3 +7,5 @@ We’ll work with Git and GitHub on our local machines, so if you haven’t yet,
 A preview of the page is available [here](https://www.codecademy.com/courses/learn-git/projects/f1-excursion)!
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
