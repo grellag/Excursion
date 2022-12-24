@@ -17,10 +17,27 @@ body {
     font-size: 42px;
 }
 
-.downloand_link {
-    color:aquamarine;
-    font-size: 16px;
+.description_exc {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-size: 21px;
 }
+
+.downloand_link {
+    font-size: 16px;
+    background-color: black;
+    color: aquamarine;
+}
+
+.downloand_link:link, .downloand_link:visited {
+    font-size: 16px;
+    background-color: black;
+    color: aquamarine;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
 
 .video_esc {
     background-color: black;
