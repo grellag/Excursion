@@ -4,6 +4,8 @@ The web page we’ll build advertises a mobile app which helps users record and 
 
 We’ll work with Git and GitHub on our local machines, so if you haven’t yet, refer to the articles on Command Line Interface Setup and Git Setup.
 
-A preview of the page is available here!
+A preview of the page is available [here](https://www.codecademy.com/courses/learn-git/projects/f1-excursion)!
 
 If you get stuck during this project or would like to see an experienced developer work through it, click “Get Unstuck“ to see a project walkthrough video.
+
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
