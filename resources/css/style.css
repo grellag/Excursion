@@ -31,11 +31,11 @@ body {
 
 .downloand_link:link, .downloand_link:visited {
     font-size: 16px;
+    font-weight: bold;
     background-color: black;
     color: aquamarine;
     padding: 10px 20px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
   }
 
