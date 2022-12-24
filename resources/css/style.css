@@ -1,53 +1,30 @@
 body {
     background-color: black;
     text-align: center;
-    color:white;
-}
-
-.title {
-   font-family: Verdana, Geneva, Tahoma, sans-serif; 
-   font-weight: normal;
-   font-size: 50px;
-   color: white;
-}
-
-.subtitle {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 300;
-    font-size: 42px;
-}
-
-.description_exc {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: gray;
-    font-size: 21px;
-}
-
-.downloand_link {
-    font-size: 16px;
-    background-color: black;
-    color: aquamarine;
-}
-
-.downloand_link:link, .downloand_link:visited {
-    font-size: 16px;
-    font-weight: bold;
-    background-color: black;
-    color: aquamarine;
-    padding: 10px 20px;
-    text-align: center;
-    display: inline-block;
+    font-family: "Verdana", sans-serif;
+    color: white;
   }
-
-.video_esc {
-    background-color: black;
-}
-
-.img_esc {
-    background-color: black;
-    text-align: center;
-}
-
-footer {
+  
+  .cta {
+    color: aquamarine;
+    font-size: 16px;
+  }
+  
+  h1 {
+    font-size: 50px;
+    font-weight: normal;
+  }
+  
+  h2 {
+    font-size: 42px;
+    font-weight: 300;
+  }
+  
+  p {
+    font-size: 21px;
+    color: gray;
+  }
+  
+  .footer {
     text-align: right;
-}
+  } 
